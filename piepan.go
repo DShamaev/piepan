@@ -5,7 +5,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/yuin/gopher-lua"
+	"yuin/gopher-lua"
 	"layeh.com/gopher-luar"
 	"layeh.com/gumble/gumble"
 )
